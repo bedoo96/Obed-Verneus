@@ -87,5 +87,5 @@ Feel free to reach out for professional inquiries or to collaborate on exciting 
 
 - **📍 Location:** [Hanoi,Vietnam]  
 - **📧 Email:** [Your Email]  
-- **🔗 GitHub:** [Your GitHub Profile](https://github.com/bedoo96)  
-- **💼 LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/obed-verneus-007538160)
+- **🔗 GitHub:** [GitHub](https://github.com/bedoo96)  
+- **💼 LinkedIn:** [LinkedIn](www.linkedin.com/in/obed-verneus-007538160)
