@@ -85,7 +85,7 @@ I'm always looking to enhance my expertise and make meaningful contributions to 
 
 Feel free to reach out for professional inquiries or to collaborate on exciting projects!
 
-- **📍 Location:** [Your Location]  
+- **📍 Location:** [Hanoi,Vietnam]  
 - **📧 Email:** [Your Email]  
 - **🔗 GitHub:** [Your GitHub Profile](https://github.com/bedoo96)  
 - **💼 LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/obed-verneus-007538160)
